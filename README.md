@@ -27,11 +27,11 @@ ShellScripting/
 ```
 # Usage
 ## Prequesties
-- ** Bash: The scripts are written in Bash and require a Unix-like environment (e.g., Linux, macOS).
-- ** gzip: Required for file compression in `archive_files.sh`
-- ** Unix-like Environment: The script is designed for use in Unix-like operating systems (e.g., Linux, macOS).
-- ** Bash: The script requires Bash to execute.
-- ** Mail Utility: The script uses the `mail` command to send email alerts. Ensure it is installed and configured on your system.
+- **Bash**: The scripts are written in Bash and require a Unix-like environment (e.g., Linux, macOS).
+- **gzip**: Required for file compression in `archive_files.sh`
+- **Unix-like Environment**: The script is designed for use in Unix-like operating systems (e.g., Linux, macOS).
+- **Bash**: The script requires Bash to execute.
+- **Mail Utility**: The script uses the `mail` command to send email alerts. Ensure it is installed and configured on your system.
   
 # Installation
 ```
