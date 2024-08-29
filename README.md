@@ -16,7 +16,7 @@ This project provides a collection of Bash scripts designed to automate various 
 ## File Structure
 
 ```bash
-your-repo/
+ShellScripting/
 ├── archive_files.sh         # Main script for file archival
 ```
 # Usage
@@ -25,8 +25,8 @@ your-repo/
 - **gzip: Required for file compression in `archive_files.sh`
 # Installation
 ```
- git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+ git clone https://github.com/prakhar3062/ShellScripting
+ cd your-repo
 ```
 # Running the scripts
 ### Archiving Files ###
